@@ -1,0 +1,12 @@
+ol.roman-style{
+    list-style-type: upper-roman;
+}
+ol.alpha-style{
+    list-style-type: lower-alpha;
+}
+ul.circle{
+    list-style-type: circle;
+}
+ul.disc{
+    list-style-type: disc;
+}
