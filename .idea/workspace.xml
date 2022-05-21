@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="808a80a4-1411-4d05-a8f8-ff75e8e8b6d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HTML and CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HTML and CSS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. HTML structure/06_Semantic-Blog-Layout/06. Semantic Blog Layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/02. HTML structure/06_Semantic-Blog-Layout/06. Semantic Blog Layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,32 @@
       <recent name="$PROJECT_DIR$/../JSProjects/Advanced" />
     </key>
   </component>
+  <component name="RunManager" selected="Node.js.11. Equal Neighbors.js">
+    <configuration name="07. Piece of Pie.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/07. Piece of Pie.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Process Odd Positions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/08. Process Odd Positions.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+      <method v="2" />
+    </configuration>
+    <configuration name="09. Biggest Element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/09. Biggest Element.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+      <method v="2" />
+    </configuration>
+    <configuration name="10. Diagonal Sums.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/10. Diagonal Sums.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+      <method v="2" />
+    </configuration>
+    <configuration name="11. Equal Neighbors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/11. Equal Neighbors.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.11. Equal Neighbors.js" />
+        <item itemvalue="Node.js.10. Diagonal Sums.js" />
+        <item itemvalue="Node.js.09. Biggest Element.js" />
+        <item itemvalue="Node.js.08. Process Odd Positions.js" />
+        <item itemvalue="Node.js.07. Piece of Pie.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,11 +83,29 @@
       <option name="presentableId" value="Default" />
       <updated>1653048797940</updated>
       <workItem from="1653048799522" duration="3000" />
-      <workItem from="1653048827469" duration="674000" />
+      <workItem from="1653048827469" duration="11510000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/09. Biggest Element.js</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/10. Diagonal Sums.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
