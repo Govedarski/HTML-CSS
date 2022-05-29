@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="808a80a4-1411-4d05-a8f8-ff75e8e8b6d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/01_Restaurant-Menu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/01_Restaurant-Menu/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/04_Buttons-css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/04_Buttons-css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/05_Fonts-speciment-Great-Vibes+Raleway/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/05_Fonts-speciment-Great-Vibes+Raleway/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/08_Font-Awesome-Icons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/08_Font-Awesome-Icons/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/11_Create-Typography-CSS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. CSS &amp; Typography/11_Create-Typography-CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/02_Scrolling-Article/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/02_Scrolling-Article/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/03_Brazil-Coffee/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/03_Brazil-Coffee/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/06_Navigation-inline-block/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/06_Navigation-inline-block/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/08_Photo-gallery-inline-block/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/08_Photo-gallery-inline-block/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/09_Blog-layout-inline-block/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/09_Blog-layout-inline-block/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. HTML structure/06_Semantic-Blog-Layout/06. Semantic Blog Layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/02. HTML structure/06_Semantic-Blog-Layout/06. Semantic Blog Layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,28 +67,28 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-and-CSS/03. CSS &amp; Typography/04_Buttons-css/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-and-CSS/04. CSS Box Model/09_Blog-layout-inline-block/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="08. Process Odd Positions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/08. Process Odd Positions.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+    <configuration name="08. Rectangle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/08. Rectangle.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
       <method v="2" />
     </configuration>
-    <configuration name="11. Equal Neighbors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab/11. Equal Neighbors.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Lab">
+    <configuration name="09. Sorted List.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/09. Sorted List.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
       <method v="2" />
     </configuration>
-    <configuration name="12. Orbit.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Exercise/12. Orbit.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Exercise">
+    <configuration name="10. Heroes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/10. Heroes.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
       <method v="2" />
     </configuration>
-    <configuration name="13. Spiral Matrix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Exercise/13. Spiral Matrix.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/02. Arrays and Nested Arrays/Exercise">
+    <configuration name="11. Jan's Notation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/11. Jan's Notation.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.11. Equal Neighbors.js" />
-        <item itemvalue="Node.js.08. Process Odd Positions.js" />
-        <item itemvalue="Node.js.13. Spiral Matrix.js" />
-        <item itemvalue="Node.js.12. Orbit.js" />
+        <item itemvalue="Node.js.11. Jan's Notation.js" />
+        <item itemvalue="Node.js.10. Heroes.js" />
+        <item itemvalue="Node.js.09. Sorted List.js" />
+        <item itemvalue="Node.js.08. Rectangle.js" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +103,8 @@
       <workItem from="1653048799522" duration="3000" />
       <workItem from="1653048827469" duration="44172000" />
       <workItem from="1653176974648" duration="11094000" />
-      <workItem from="1653256178896" duration="23814000" />
+      <workItem from="1653256178896" duration="38902000" />
+      <workItem from="1653553314184" duration="34034000" />
     </task>
     <servers />
   </component>
@@ -140,7 +140,22 @@
           <line>13</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Lab/03. City Taxes.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/04. Heroic Inventory.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
