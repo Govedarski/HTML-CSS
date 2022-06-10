@@ -1,0 +1,114 @@
+body {
+    display: grid;
+    grid-template-areas:
+    "header header"
+    "main aside";
+    grid-template-columns: auto 200px;
+    gap: 10px;
+    padding:80px;
+    background: #CCCCCC;
+}
+
+body > header {
+    position: relative;
+    grid-area: header;
+    border-bottom: 3px solid black;
+}
+
+header p {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+}
+
+header nav {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    vertical-align: top;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+    color: green;
+}
+
+main {
+    grid-area: main;
+}
+
+
+#second {
+    display: grid;
+    grid-template-areas:
+    "p1 p1"
+    "p2 quote"
+    "p3 p3";
+    grid-auto-columns: 50% 50%;
+}
+
+#p1 {
+    grid-area: p1;
+}
+
+#p2 {
+    grid-area: p2;
+}
+
+#p3 {
+    grid-area: p3;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: gray;
+    position: relative;
+    font-style: italic;
+    margin: 16px 10px 0 0;
+    grid-area: quote;
+    vertical-align: top;
+    border-left: 3px solid rgba(192,192,192,1);
+    padding-left: 10px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+p.q-author {
+    position: absolute;
+    right: 0;
+}
+
+aside {
+    grid-area: aside
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+img {
+    padding: 5px;
+    border: 2px solid black;
+    background: white;
+    -webkit-box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.5);
+    margin: 0 10px 10px 10px;
+}
+
+a {
+    color: green
+}
+
+ul {
+    list-style-type: disc;
+}

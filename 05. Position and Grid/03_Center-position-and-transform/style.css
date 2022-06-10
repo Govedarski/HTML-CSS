@@ -1,0 +1,47 @@
+html {
+    font-family: Georgia, serif;
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+section.card {
+    display: inline-block;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.5);
+    max-width: 500px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+section.card div:nth-of-type(2) {
+    box-sizing: border-box;
+    padding: 20px 40px;
+}
+
+img {
+    display: block;
+    top: 0;
+    transform: translate(0, 0);
+}
+
+a {
+    display: inline-block;
+    position: relative;
+    background-color: rgb(0, 153, 0);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    left: 80%;
+    top: 80%;
+}

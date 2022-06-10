@@ -5,17 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="808a80a4-1411-4d05-a8f8-ff75e8e8b6d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/02_Scrolling-Article/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/02_Scrolling-Article/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/03_Brazil-Coffee/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/03_Brazil-Coffee/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/06_Navigation-inline-block/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/06_Navigation-inline-block/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/08_Photo-gallery-inline-block/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/08_Photo-gallery-inline-block/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/09_Blog-layout-inline-block/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. CSS Box Model/09_Blog-layout-inline-block/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/01_Simple-Site-Layout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/01_Simple-Site-Layout/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/02_Position-playground/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/02_Position-playground/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/03_Center-position-and-transform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/03_Center-position-and-transform/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/04_Navigation-float/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/04_Navigation-float/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/05_New-Offer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/05_New-Offer/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/06_Social_Media_Icons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/06_Social_Media_Icons/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/07_Interior-Design-Studio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Position and Grid/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/HTML and CSS Retake Exam - 13 August 2019/01_Advantages/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/HTML and CSS Retake Exam - 13 August 2019/01_Advantages/Solution/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/HTML and CSS Retake Exam - 13 August 2019/03_WordPress-Essentials/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/HTML and CSS Retake Exam - 13 August 2019/03_WordPress-Essentials/Solution/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. CSS Box Model/07_Make-Your-Own-Website/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/04. CSS Box Model/07_Make-Your-Own-Website/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,50 +56,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exams/HTML and CSS Retake Exam - 13 August 2019" />
       <recent name="$PROJECT_DIR$/../JSProjects/Advanced" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-and-CSS/04. CSS Box Model/09_Blog-layout-inline-block/index.html" useBuiltInWebServerPort="true">
+    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML-and-CSS/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="08. Rectangle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/08. Rectangle.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML-and-CSS/Exams/HTML and CSS Retake Exam - 13 August 2019/01_Advantages/Solution/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="09. Sorted List.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/09. Sorted List.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML-and-CSS/Exams/HTML and CSS Retake Exam - 13 August 2019/03_WordPress-Essentials/Solution/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="10. Heroes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/10. Heroes.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML-and-CSS/05. Position and Grid/02_Position-playground/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="11. Jan's Notation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/11. Jan's Notation.js" working-dir="$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise">
+    <configuration name="jewellery-website.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML-and-CSS/05. Position and Grid/08_Jewellery-Website/jewellery-website.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.11. Jan's Notation.js" />
-        <item itemvalue="Node.js.10. Heroes.js" />
-        <item itemvalue="Node.js.09. Sorted List.js" />
-        <item itemvalue="Node.js.08. Rectangle.js" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.demo.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.jewellery-website.html" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +117,16 @@
       <workItem from="1653176974648" duration="11094000" />
       <workItem from="1653256178896" duration="38902000" />
       <workItem from="1653553314184" duration="34034000" />
+      <workItem from="1653824234943" duration="37470000" />
+      <workItem from="1653926740976" duration="36343000" />
+      <workItem from="1654026501918" duration="19596000" />
+      <workItem from="1654088557616" duration="20506000" />
+      <workItem from="1654359099500" duration="12818000" />
+      <workItem from="1654427012158" duration="1807000" />
+      <workItem from="1654428838141" duration="32935000" />
+      <workItem from="1654502794065" duration="15002000" />
+      <workItem from="1654601615955" duration="68471000" />
+      <workItem from="1654789774905" duration="3553000" />
     </task>
     <servers />
   </component>
@@ -148,8 +170,27 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../JSProjects/Advanced/03. Objects and Composition/Exercise/04. Heroic Inventory.js</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/04. DOM Introduction/Exercise/05. Table - Search Engine/solution.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/06. Advanced Functions/Lab/07. Cars.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/06. Advanced Functions/Lab/07. Cars.js</url>
+          <line>62</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://localhost:63343/HTML-and-CSS/Advanced/06.%20Advanced%20Functions/Exercise/10.%20Task%20Manager/app.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

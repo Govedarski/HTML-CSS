@@ -1,0 +1,21 @@
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+body{
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+}
+
+a{
+    margin: 5px;
+    background: lightgray;
+    padding: 15px;
+    border-radius: 50%;
+    color: black;
+}
+a:hover{
+    color: green;
+}

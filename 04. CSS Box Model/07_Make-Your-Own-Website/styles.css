@@ -1,16 +1,18 @@
+main{
+    text-align: center;
+    height: auto;
+}
 div{
-    width: 280px;
-    display: inline-block;
-    padding: 16px 16px 16px 32px;
-    margin-top: 20px;
     background-color: #0A2C48;
     color: #fff;
-    border-radius: 4px;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 32%;
+    min-height: 100%;
+    display: inline-block;
+    margin: 0;
+    border: none;
 }
 div:hover{
     background-color: #2A4C68;
-}
-p{
-    color: #c9d6ff;
-    font-size: 18px;
 }

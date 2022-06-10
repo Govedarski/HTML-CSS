@@ -1,0 +1,35 @@
+/*html * {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*body {*/
+/*    position: relative;*/
+/*    font-size: 5vw;*/
+/*}*/
+
+/*img {*/
+/*    width: 100vw;*/
+/*}*/
+
+/*h1 {*/
+/*    position: absolute;*/
+/*    left: 50%;*/
+/*    top: 20%;*/
+/*    transform: translate(-50%);*/
+/*    color: white;*/
+/*    font-size: 1em;*/
+/*    text-shadow:*/
+/*    black 0px 0px 20px,*/
+/*    black 0px 0px 30px,*/
+/*    black 0px 0px 40px,*/
+/*    11px 10px 20px rgba(0, 0, 0, 0.1);*/
+/*}*/
+
+h1{
+    position: absolute;
+    top: 60px;
+    left:180px;
+    color: antiquewhite;
+    text-shadow: 1px 1px 20px black;
+}
