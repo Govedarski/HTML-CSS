@@ -1,0 +1,20 @@
+footer{
+    width: 70%;
+    margin: auto;
+}
+ul.footer{
+    margin-top: 10px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+ul.footer li{
+    border: 1px solid #4f4d4f;
+    border-radius: 8px;
+    padding:10px 40px;
+    vertical-align: center;
+}
+i{
+    margin-right: 5px;
+}

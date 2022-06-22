@@ -1,0 +1,63 @@
+@import url('./reset.css');
+
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+
+}
+main{
+    background-color: #f6f8f9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    padding-top: 50px;
+    border: 8px;
+}
+section.card{
+    max-width: 450px;
+    min-width: 300px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+h3{
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 1.2rem;
+    font-weight: normal;
+    line-height: 2;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    color: #656f79;
+}
+img{
+    width: 32%;
+}
+button{
+    padding: 14px 28px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+button.purple{
+    background-color: #8847f9;
+    color: white;
+    border: none;
+    margin-right: 12px;
+}

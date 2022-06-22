@@ -1,0 +1,19 @@
+html{
+    color: #f7fcff;
+}
+html *{
+    margin: 0;
+}
+body{
+    background: black;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color:#4f4d4f;
+    font-size: 1.1em;
+}

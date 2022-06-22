@@ -1,0 +1,59 @@
+body{
+    display: grid;
+    grid-template-areas:
+    "wd wd wd wd wd wd wd wd wd wd rem rem"
+    "md md td td wwd wwd ttd ttd fd fd rem rem"
+    "wend wend wend wend wend wend wend wend wend wend spec spec"
+    "st st st st st sst sst sst sst sst spec spec";
+    grid-template-columns: repeat(12, minmax(max-content, 5vw));
+    grid-template-rows: repeat(12, minmax(max-content, 10vw));
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+span{
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span:nth-of-type(1){
+    grid-area: wd;
+}
+span:nth-of-type(2){
+    grid-area: md;
+}
+span:nth-of-type(3){
+    grid-area: td;
+}
+span:nth-of-type(4){
+    grid-area: wwd;
+}
+span:nth-of-type(5){
+    grid-area: ttd;
+}
+span:nth-of-type(6){
+    grid-area: fd;
+}
+span:nth-of-type(7){
+    grid-area: wend;
+}
+span:nth-of-type(8){
+     grid-area: st;
+ }
+span:nth-of-type(9){
+    grid-area: sst;
+}
+span:nth-of-type(10){
+    grid-area: rem;
+}
+span:nth-of-type(11){
+    grid-area: spec;
+}

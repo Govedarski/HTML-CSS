@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+}
+section.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    gap:20px
+}
+div.border{
+    height: 50vh;
+    width: 5vw;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+    border-radius: 10px;
+}
+div.border:active{
+    width: auto;
+    background-color: black;
+    padding: 0 20px;
+    border-radius: 10px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 80vh;
+}
+img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}

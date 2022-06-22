@@ -1,0 +1,56 @@
+html * {
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+    z-index: 0;
+
+}
+div {
+    max-width: 65vw;
+    align-items: stretch;
+    margin: auto;
+}
+
+div, section {
+    display: flex;
+}
+section{
+    flex-wrap: wrap;
+}
+
+div.days{
+    display: flex;
+    flex-basis: 100%;
+}
+
+section.notes{
+    flex-direction: column;
+}
+section.notes span{
+    width: calc(65vw / 7 * 2)
+}
+
+span {
+    display: inline-block;
+    border: 1px solid black;
+    flex-grow: 1;
+    padding: 20px;
+    height: calc(65vw / 7);
+    width: calc(65vw / 7);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+span.title {
+    flex-basis: 100%;
+}
+
+span:hover{
+    overflow: visible;
+    white-space: normal;
+    display: block;
+    width: auto;
+    padding-left: 0;
+    padding-right: 0;
+}

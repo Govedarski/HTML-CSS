@@ -1,0 +1,44 @@
+html *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 90%;
+    margin: 5vh auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 2px solid rgb(0,0,0);
+    height: 100%;
+    padding: 5vh;
+}
+header h1{
+    font-size: 54px;
+    vertical-align: top;
+    line-height: 0.8;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    margin: 0 20px;
+    font-size: 1.2rem;
+}
+a{
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+main h1{
+    font-weight: normal;
+    margin: 40px 0 20px 0;
+}
+main{
+    line-height: 1.5;
+}
+main p{
+    margin-bottom: 20px;
+}

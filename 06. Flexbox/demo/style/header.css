@@ -1,0 +1,12 @@
+ul.nav{
+    background-color:#1c1a1c ;
+    width: 75%;
+    margin: auto;
+    height: 60px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

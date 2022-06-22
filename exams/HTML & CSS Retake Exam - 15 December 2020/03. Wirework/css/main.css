@@ -1,0 +1,120 @@
+main{
+    display: flex;
+    flex-direction: column;
+
+}
+main>*{
+    font-size: 0;
+}
+main>* *{
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+main section img{
+    object-fit: cover;
+    object-position: center;
+    height: 40vh;
+    max-height: 500px;
+    width: 100%;
+}
+section.red{
+    background-color: #e83c32;
+    text-align: center;
+}
+section.red p{
+    color: white;
+    display: block;
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px 0;
+}
+strong{
+    font-weight: bold;
+}
+/*SECTION CARDS */
+section.cards{
+    padding: 100px 0;
+    background-color: #3b3b3b;
+    display: flex;
+    justify-content: space-around;
+}
+div.card{
+    width: 22%;
+    max-width: 400px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+i{
+    display: inline-block;
+    height: auto;
+    font-size: 5rem;
+    padding: 10px;
+    color: white;
+    background-color: #e83c32;
+}
+div.card h6{
+    color: white;
+    padding: 10px 0 20px 0;
+    font-size: 1.2rem;
+}
+div.card:first-of-type h6{
+    color: white;
+    padding: 20px 0;
+
+}
+div.card p{
+    font-size: 1rem;
+    border-top: 1px solid #656466;
+    padding-top: 20px;
+    color: #656466;
+}
+section.etiam{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0;
+}
+.etiam h2{
+    font-size: 2.8rem;
+    line-height: 0.8;
+    color: #3b3b3b;
+    text-align: center;
+}
+.etiam p{
+    text-align: center;
+    letter-spacing: 1px;
+    color: #656466;
+}
+button{
+    margin-top: 20px;
+    padding: 10px 40px;
+    color:white;
+    background-color: #009d74;
+    border: none;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+body > main > section:nth-child(5) p{
+    border: none;
+}
+body > main > section:nth-child(5) h6{
+    font-size: 1.5rem;
+}
+body > main > section:nth-child(5) > div:nth-child(1) > h6{
+    padding:10px ;
+
+}
+footer{
+    width: 100vw;
+background-color: #009d74;
+    text-align: center;
+    padding: 100px 0;
+    color: rgba(255, 255, 255, 0.5);
+}
+footer span{
+    color: rgba(255, 255, 255, 0.8);
+}

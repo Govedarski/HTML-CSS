@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px) {
+    body > section > article > article {
+        display: none;
+    }
+    #about > article:nth-child(1){
+        display: none;
+    }
+    .w3-col.m6 {
+        width: 95%;
+        margin: auto;
+    }
+    .w3-padding-large {
+        padding: 12px 0;
+    }
+    .w3-col {
+        float: none;
+    }
+    .w3-col.l6 {
+        width: 95%;
+        margin: auto;
+    }
+    #menu > article > p{
+        font-size: 18px;
+    }
+}

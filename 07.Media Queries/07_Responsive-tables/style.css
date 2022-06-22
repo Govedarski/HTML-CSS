@@ -1,0 +1,30 @@
+/*body{*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*}*/
+/*div.employee{*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*}*/
+/*div.employee *{*/
+/*    width: 33%;*/
+/*}*/
+
+
+div.employee{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+div.employee{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+/*div.employee{*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*}*/
+/*div.employee *{*/
+/*    width: 33%;*/
+/*}*/

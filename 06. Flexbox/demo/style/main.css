@@ -1,0 +1,40 @@
+section.about{
+    width: 70%;
+    margin: 13vh auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+section.about img{
+    width: 25vw;
+    height: 25vw;
+    min-width: 200px;
+    max-width: 400px;
+    min-height: 200px;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+section.about h1{
+    font-size: 2.5em;
+    margin: 5px 0;
+}
+
+section.about button{
+    color: #f7fcff;
+    background-color: #229821;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.2rem;
+    padding: 20px 50px;
+    margin: 30px 0;
+    box-shadow: 2px 5px 20px 1px #229821;
+}
+section.about button:hover{
+    color:black;
+    transform: scale(1.2);
+    cursor: pointer;
+}

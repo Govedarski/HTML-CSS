@@ -1,0 +1,33 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(238, 238, 238);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100vh;
+}
+header{
+    border-bottom: 2px solid black;
+    font-size: 28px;
+    padding-left: 40px;
+}
+main{
+    padding:40px 40px;
+    line-height: 1.5;
+}
+main h1{
+    font-weight: normal;
+}
+
+footer{
+    width: 100%;
+    background: rgb(102, 102, 102);
+    color: rgb(255, 255, 255);
+    padding: 1px 40px;
+    font-size: 1.2rem;
+    position:sticky;
+    bottom: 0;
+}

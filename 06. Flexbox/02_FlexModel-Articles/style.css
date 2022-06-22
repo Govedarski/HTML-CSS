@@ -1,0 +1,20 @@
+html{
+    font-family: "Helvetica", sans-serif;
+    line-height: 1.5;
+}
+section{
+    margin: 5% auto;
+    max-width: 70vw;
+    display: flex;
+    justify-content: space-between;
+    gap: 5%
+}
+h2{
+    font-family: "Georgia", serif;
+    line-height: 1.2;
+    font-size: 36px;
+}
+p{
+    padding-right: 20px;
+    color: #79675f;
+}
