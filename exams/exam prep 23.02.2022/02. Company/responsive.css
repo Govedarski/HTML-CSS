@@ -1,0 +1,86 @@
+@media screen and (max-width: 600px) {
+    body {
+        width: 98%;
+        position: relative;
+        top: -28px
+    }
+
+    .hero-head {
+        background: black;
+        min-height: unset;
+        padding-bottom: 120px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .wrapper {
+        width: unset;
+        text-align: center;
+    }
+
+    .hero-head h1 {
+        float: unset;
+        margin: 28px 0;
+        font-size: 42px;
+    }
+
+    .hero-head .goal {
+        float: unset;
+        max-width: 95%;
+        font-size: 1.2em;
+        margin: auto;
+    }
+
+    .hero-head:after {
+        display: none;
+        height: 0;
+    }
+
+    .content {
+        float: unset;
+    }
+
+    .content-wrap {
+        margin: 20px 0 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content-wrap.two-col .col {
+        margin-right: 0;
+    }
+
+    .button {
+        width: 90%;
+    }
+
+    div.content-wrap-full {
+        width: 82%;
+        margin: auto
+    }
+
+    .sponsors .module-text {
+        margin: 20px 0 20px;
+    }
+    footer{
+        padding-top: 50px;
+    }
+    footer nav{
+        display: block;
+    }
+    .main-foot .wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+    .main-foot h4 {
+        margin: 0 0 25px;
+    }
+    .main-foot .bottom .bottom-wrap {
+        float: unset;
+    }
+    .main-foot .bottom .copyright {
+        float: unset;
+    }
+}

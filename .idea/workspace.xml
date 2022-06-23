@@ -5,88 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="808a80a4-1411-4d05-a8f8-ff75e8e8b6d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/01_Flexbox-Layout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/02_FlexModel-Articles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/02_FlexModel-Articles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/03_FlexModel-ABC-Game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/03_FlexModel-ABC-Game/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/04_FlexModel-Calendar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/04_FlexModel-Calendar/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/05_Navigation-flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/05_Navigation-flexbox/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/06_Photo-gallery-flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/06_Photo-gallery-flexbox/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/07_Blog-layout-flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/07_Blog-layout-flexbox/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/08_Sticky-footer-flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/08_Sticky-footer-flexbox/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/09_Center-flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/09_Center-flexbox/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/10_Expanding-flex-cards/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/10_Expanding-flex-cards/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/11_Cards-with-csscolumns-and-flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/11_Cards-with-csscolumns-and-flexbox/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/demo/style/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/demo/style/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/demo/style/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/demo/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Flexbox/demo/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/01_Responsive-Site-Layout/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/02_Responsive_Top_Menu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/02_Responsive_Top_Menu/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/03_MQs-in-typography/images/Image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/03_MQs-in-typography/images/Image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/03_MQs-in-typography/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/03_MQs-in-typography/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/04_Responsive-forms/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/04_Responsive-forms/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/05_Responsive-media-boxes/css-reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/05_Responsive-media-boxes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/05_Responsive-media-boxes/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/general.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/06_Landing_page/static/style/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/07_Responsive-tables/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.Media Queries/07_Responsive-tables/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/01. Services/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/01. Services/style/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/01. Services/style/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/01. Services/style/general.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/01. Services/style/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/01. Services/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/03. Pet Care/css/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/03. Pet Care/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/03. Pet Care/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/03. Pet Care/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/03. Pet Care/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 14 December 2021/03. Pet Care/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/01. Auto/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/01. Auto/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css/general.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/01. Enterprise/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/01. Enterprise/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/01. Enterprise/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/03. Portfolio/css/general.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/03. Portfolio/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/03. Portfolio/css/sections.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/03. Portfolio/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/exam prep/03. Portfolio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/exam prep 23.02.2022/01. Softuniada/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/exam prep 23.02.2022/01. Softuniada/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/exam prep 23.02.2022/01. Softuniada/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/exam prep 23.02.2022/03. LinkedIn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/exam prep 23.02.2022/03. LinkedIn/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/exam prep 23.02.2022/03. LinkedIn/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Position and Grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07.Media Queries/01_Responsive-Site-Layout/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Position and Grid/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/06. Flexbox/01_Flexbox-Layout/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -123,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/velislav/HTML-and-CSS/exams/exam prep/03. Portfolio/css",
+    "last_opened_file_path": "/home/velislav/HTML-and-CSS/exams/exam prep 23.02.2022/03. LinkedIn",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -138,22 +63,31 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exams/exam prep 23.02.2022/03. LinkedIn" />
+      <recent name="$PROJECT_DIR$/exams/exam prep 23.02.2022/01. Softuniada" />
       <recent name="$PROJECT_DIR$/exams/exam prep/03. Portfolio/css" />
       <recent name="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css" />
       <recent name="$PROJECT_DIR$/07.Media Queries/06_Landing_page" />
-      <recent name="$PROJECT_DIR$/07.Media Queries/03_MQs-in-typography" />
-      <recent name="$PROJECT_DIR$/07.Media Queries/02_Responsive_Top_Menu" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../JSProjects/Advanced/Exams/10. Js Advanced Final Exam - 19 February 2022/01. Work Process" />
       <recent name="$PROJECT_DIR$/../JSProjects/Advanced/Exams/09. JS Advanced Retake Exam - 6 Apr 2022/03. Book selection" />
       <recent name="$PROJECT_DIR$/exams/exam prep/03. Portfolio/css" />
       <recent name="$PROJECT_DIR$/exams/exam prep/01. Enterprise" />
       <recent name="$PROJECT_DIR$/../JSProjects/Advanced/08. Classes/Exercise/12. Payment Package" />
-      <recent name="$PROJECT_DIR$/exams/HTML &amp; CSS Retake Exam - 15 December 2020/03. Wirework/css" />
     </key>
   </component>
-  <component name="RunManager" selected="Mocha.bookSelection.suitableTitles.should throw Error with wrong type genre">
-    <configuration name="bookSelection.isItAffordable.should throw Error with price not a number" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="communication-company.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-and-CSS/exams/exam prep 23.02.2022/02. Company/communication-company.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-and-CSS/exams/exam prep 23.02.2022/03. LinkedIn/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-and-CSS/exams/exam prep 23.02.2022/01. Softuniada/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="flowerShop.sellFlowers.should throw Error with space = -1" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <mocha-package>$PROJECT_DIR$/../JSProjects/Advanced/node_modules/mocha</mocha-package>
@@ -162,15 +96,15 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/09. JS Advanced Retake Exam - 6 Apr 2022/03. Book selection/bookSelection.test.js</test-file>
+      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/10. Js Advanced Final Exam - 19 February 2022/03. Flowers Shop/flowerShop.test.js</test-file>
       <test-names>
-        <name value="bookSelection" />
-        <name value="isItAffordable" />
-        <name value="should throw Error with price not a number" />
+        <name value="flowerShop" />
+        <name value="sellFlowers" />
+        <name value="should throw Error with space = -1" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="bookSelection.suitableTitles.should correct array with booksArray and matching genre " type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+    <configuration name="flowerShop.sellFlowers.should throw Error with space = 3" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <mocha-package>$PROJECT_DIR$/../JSProjects/Advanced/node_modules/mocha</mocha-package>
@@ -179,72 +113,21 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/09. JS Advanced Retake Exam - 6 Apr 2022/03. Book selection/bookSelection.test.js</test-file>
+      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/10. Js Advanced Final Exam - 19 February 2022/03. Flowers Shop/flowerShop.test.js</test-file>
       <test-names>
-        <name value="bookSelection" />
-        <name value="suitableTitles" />
-        <name value="should correct array with booksArray and matching genre " />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="bookSelection.suitableTitles.should empty array with booksArray and not matching genre " type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/../JSProjects/Advanced/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$/../JSProjects/Advanced</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/09. JS Advanced Retake Exam - 6 Apr 2022/03. Book selection/bookSelection.test.js</test-file>
-      <test-names>
-        <name value="bookSelection" />
-        <name value="suitableTitles" />
-        <name value="should empty array with booksArray and not matching genre " />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="bookSelection.suitableTitles.should throw Error with wrong type bookArray" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/../JSProjects/Advanced/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$/../JSProjects/Advanced</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/09. JS Advanced Retake Exam - 6 Apr 2022/03. Book selection/bookSelection.test.js</test-file>
-      <test-names>
-        <name value="bookSelection" />
-        <name value="suitableTitles" />
-        <name value="should throw Error with wrong type bookArray" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="bookSelection.suitableTitles.should throw Error with wrong type genre" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/../JSProjects/Advanced/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$/../JSProjects/Advanced</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../JSProjects/Advanced/Exams/09. JS Advanced Retake Exam - 6 Apr 2022/03. Book selection/bookSelection.test.js</test-file>
-      <test-names>
-        <name value="bookSelection" />
-        <name value="suitableTitles" />
-        <name value="should throw Error with wrong type genre" />
+        <name value="flowerShop" />
+        <name value="sellFlowers" />
+        <name value="should throw Error with space = 3" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Mocha.bookSelection.suitableTitles.should throw Error with wrong type genre" />
-        <item itemvalue="Mocha.bookSelection.suitableTitles.should throw Error with wrong type bookArray" />
-        <item itemvalue="Mocha.bookSelection.suitableTitles.should empty array with booksArray and not matching genre " />
-        <item itemvalue="Mocha.bookSelection.suitableTitles.should correct array with booksArray and matching genre " />
-        <item itemvalue="Mocha.bookSelection.isItAffordable.should throw Error with price not a number" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.communication-company.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Mocha.flowerShop.sellFlowers.should throw Error with space = 3" />
+        <item itemvalue="Mocha.flowerShop.sellFlowers.should throw Error with space = -1" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +162,7 @@
       <workItem from="1655279613287" duration="96365000" />
       <workItem from="1655543731168" duration="70563000" />
       <workItem from="1655810935562" duration="582000" />
-      <workItem from="1655812140096" duration="52382000" />
+      <workItem from="1655812140096" duration="78851000" />
     </task>
     <servers />
   </component>
@@ -354,6 +237,12 @@
           <url>file://$PROJECT_DIR$/../JSProjects/Advanced/Exams/08. Js Advanced Final Retake Exam - 10 December 2021/01. Service/app.js</url>
           <line>24</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../JSProjects/Advanced/Exams/10. Js Advanced Final Exam - 19 February 2022/01. Work Process/app.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
