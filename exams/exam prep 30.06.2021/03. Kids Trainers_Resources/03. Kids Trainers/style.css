@@ -1,0 +1,217 @@
+@import url('./reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+
+:root {
+    --clr-green: #20c3ac;
+    --clr-orange: #ff8d28;
+    --padding-left: 8%
+}
+html *{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.white{
+    color: white;
+}
+.green{
+    color: var(--clr-green);
+}
+h2{
+    color:white;
+    font-size: 2.2em;
+    font-weight: 600;
+}
+h3{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+p{
+    line-height: 1.2;
+    font-size: 1.1em;
+}
+section{
+    gap:25px;
+    padding: 50px 0;
+}
+/*HEADER*/
+
+header {
+    background-color: var(--clr-green);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 0;
+}
+
+header > * {
+    width: 50%;
+}
+div.logo{
+    padding-left: var(--padding-left);
+}
+img.logo {
+    height: 36px;
+}
+
+header nav ul {
+    display: flex;
+    gap: 36px
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 0.9em;
+    letter-spacing: -1px;
+}
+
+/*SECTION info*/
+section.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffb632;
+}
+
+section.info * {
+    width: 40%;
+    text-align: center;
+}
+
+/*SECTION TRAINERS*/
+section.trainers{
+    display: flex;
+}
+section.trainers>*{
+    width: 50%;
+}
+div.employee{
+    display: flex;
+    gap: 25px
+}
+div.employee:first-of-type{
+    padding-left: var(--padding-left);
+}
+img.picture{
+    max-width: 220px;
+    max-height: 220px;
+    width: 15vw;
+    height: 15vw;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 10px solid var(--clr-green);
+}
+div.employee div.content{
+    display: flex;
+    flex-direction: column;
+    gap:25px;
+    width: 75%;
+}
+p.job{
+    font-size: 1em;
+    color:#b9bfc9;
+    line-height: 3;
+}
+div.content >p{
+ color: #696b5b;
+    max-width: 500px;
+}
+
+/*SECTION SECOND TRAINERS*/
+section.scn-trainers{
+    display: flex;
+    gap:100px;
+    justify-content: center;
+    text-align: center;
+    margin: 100px;
+}
+/*SECTION Apply*/
+section.apply{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#67b2f5;
+    text-align: center;
+    border-top: 10px solid #90c9f8;
+    padding: 80px 0 140px 0;
+
+}
+section.apply>*{
+    width: 60%;
+}
+section.apply p{
+    max-width: 920px;
+}
+form{
+    display: flex;
+    gap:25px;
+}
+form>*{
+    width: 25%;
+}
+input{
+    background-color: transparent;
+    font-size: 1em;
+    color: white;
+    border: 1px solid white;
+    padding: 12px 24px;
+    border-radius: 5px;
+}
+input::placeholder {
+    color: white;
+}
+button{
+    width: 150px;
+    margin-left: 25px;
+    background-color: var(--clr-orange);
+    border: none;
+    color:white;
+    font-size: 1em;
+    font-weight: 900;
+    letter-spacing: -1px;
+    border-radius: 25px;
+}
+/*Footer*/
+footer{
+    background-color: #575757;
+    display: flex;
+    padding: 28px 0 28px var(--padding-left);
+    border-top: 10px solid #909090;
+    color: white;
+}
+footer>*{
+    width: 25%;
+    max-width: 400px;
+}
+footer a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 5px 0;
+
+}
+footer h3{
+    margin-bottom: 15px;
+}
+ul.icons{
+    display: flex;
+    gap:20px
+}
+ul.icons i {
+    font-size: 2rem;
+}
