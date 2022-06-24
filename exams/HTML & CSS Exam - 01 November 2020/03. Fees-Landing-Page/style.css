@@ -1,0 +1,243 @@
+@import url('./reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+
+html{
+    box-sizing: border-box;
+    font-size: 22px;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 1.4rem;
+}
+body{
+    color: #5e6078;
+}
+section{
+    margin: 10px 20px;
+}
+/*HEADER*/
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px 10px;
+    width: calc(90% + 20px);
+    margin: auto;
+}
+header>*{
+    width: 50%;
+}
+img.img_logo{
+    height: 50px;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+header nav{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+    color: #5e6078;
+    font-size: 1em;
+    font-weight: 600;
+    letter-spacing: -0.5px;
+}
+/*SECTION TAXES*/
+.green{
+    background: linear-gradient(90deg, #00a347 0%, #00e286 100%);
+}
+.blue{
+    background: linear-gradient(90deg, #4e6985 0%, #6494cb 100%);
+}
+.purple{
+    background: linear-gradient(90deg, #5801a1 0%, #956add 100%);
+}
+
+div.bg{
+    background-color: #54546d;
+    width: 100%;
+    position: relative;
+
+}
+
+div.bg img{
+    position: relative;
+    left: 0;
+    transform: translate(-50%);
+    padding: 100px;
+}
+
+section.taxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    width: 100%;
+    margin: auto;
+    gap:20px;
+    text-align: center;
+}
+
+
+
+section.taxes article.card{
+    width: calc(33% - 60px);
+    /*max-width: 500px;*/
+    background: white;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap:40px;
+    padding-top: 40px;
+    position: relative;
+    transform: translate(0, -50%);
+}
+div.footer{
+    width: 100%;
+    height: 140px;
+    color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+
+}
+
+section.taxes article.card:first-of-type div.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+section.taxes article.card:not(first-of-type) div.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+section.taxes article.card:not(first-of-type) div.footer *{
+width: 50%;
+    overflow: hidden
+;
+}
+section.taxes article.card:not(first-of-type) div.footer div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:20px
+}
+.vertical-line{
+    height: 80%;
+    width: 1px!important;
+    background: whitesmoke;
+}
+
+section.taxes button{
+    background: #a33fc1;
+    border: none;
+    border-radius: 50px;
+    padding: 18px 36px;
+    color: white;
+    font-size: 1em;
+    font-weight: 600;
+}
+section.taxes h2{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 1em;
+}
+div.bg h1{
+    color: white;
+    font-size: 1.6em;
+    font-weight: 600;
+    position: absolute;
+    top:25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+section.taxes p{
+    padding: 0 20px;
+}
+
+
+/*SECTION OPTIONS*/
+section.options{
+    width: 75%;
+    margin: -100px auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap:40px
+}
+h3{
+    font-weight: 500;
+}
+section.options ul li:first-of-type{
+border-radius: 8px 8px 0 0;
+}
+section.options ul li:last-of-type{
+    border-radius:  0 0 8px 8px;
+}
+section.options ul li{
+    display: grid;
+    grid-template-columns: 80% 10% 10%;
+    background: #e5e5e5;
+    padding: 20px;
+}
+section.options ul li:nth-of-type(even){
+    background: #f8f8f8;
+}
+i.fa-check{
+    color: green;
+    font-size: 1.5em;
+    font-weight: 900;
+    text-align: center;
+}
+i.fa-xmark{
+    color: red;
+    font-size: 1.5em;
+    font-weight: 900;
+    text-align: center;
+}
+
+/*SECTION POSTBANK*/
+section.postbank{
+    width: 90%;
+    margin: 100px auto 150px auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:5%
+
+}
+section.postbank img{
+    width: 25%;
+    min-width: 400px;
+}
+section.postbank article.card{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    width: 70%;
+}
+
+footer{
+    background-color: #54546d;
+    height: 93px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7c79a0;
+}

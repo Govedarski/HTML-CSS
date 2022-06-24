@@ -8,6 +8,7 @@
     --clr-orange: #ff8d28;
     --padding-left: 8%
 }
+
 html *{
     box-sizing: border-box;
 }
@@ -140,6 +141,7 @@ section.scn-trainers{
     text-align: center;
     margin: 100px;
 }
+
 /*SECTION Apply*/
 section.apply{
     display: flex;
@@ -186,6 +188,7 @@ button{
     letter-spacing: -1px;
     border-radius: 25px;
 }
+
 /*Footer*/
 footer{
     background-color: #575757;
